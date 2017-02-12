@@ -1,0 +1,13 @@
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Build results
+bin-x64/
+bin-x86/
+
+#Unpacked source code
+gsl-x64/
+gsl-x86/
+gsl-*/
